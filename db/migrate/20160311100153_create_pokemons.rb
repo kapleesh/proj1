@@ -3,7 +3,6 @@ class CreatePokemons < ActiveRecord::Migration
     create_table :pokemons do |t|
       t.string :name
       t.integer :level
-      t.integer :health
       t.integer :trainer_id
 
       t.timestamps null: false
