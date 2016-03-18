@@ -20,5 +20,4 @@ Basically each pokemon object has error messages and the line allows us to displ
 I wish there were more office hours, but overall I feel like what I am learning is useful. 
 
 # Extra credit: Link your Heroku deployed app
-https://serene-wildwood-23998.herokuapp.com/ 
-^not sure if this works... 
+https://serene-wildwood-23998.herokuapp.com/
